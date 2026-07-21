@@ -97,22 +97,22 @@ I'm **Karthik Kotha**, a passionate **Java Backend Developer** with a strong int
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
-# 📊 GitHub Statistics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kotha-karthik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=kotha-karthik&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotha-karthik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kotha-karthik&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kotha-karthik&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
