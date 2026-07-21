@@ -106,198 +106,6 @@ Fun Fact:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotha-karthik&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotha-karthik&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kotha-karthik&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kotha-karthik&theme=algolia&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kotha-karthik&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kotha-karthik/kotha-karthik/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🚀 ProcureFlow AI
-
-Enterprise Procurement Platform
-
-✔ Spring Boot
-
-✔ Kafka
-
-✔ Redis
-
-✔ JWT
-
-✔ MSSQL
-
-✔ Microservices
-
----
-
-## 🏥 MediConnect
-
-Hospital Management Platform
-
-✔ Appointment Scheduling
-
-✔ Billing
-
-✔ RBAC
-
-✔ Spring Security
-
-✔ JWT
-
----
-
-## ☸ Kubernetes Microservices
-
-Enterprise Deployment
-
-✔ Docker
-
-✔ Kubernetes
-
-✔ Ingress
-
-✔ HPA
-
-✔ ConfigMaps
-
-✔ Secrets
-
----
-
-## 🔐 JWT Authentication System
-
-✔ OAuth2
-
-✔ Spring Security
-
-✔ Refresh Token
-
-✔ Role Based Access Control
-
----
-
-# 📚 Currently Learning
-
-```text
-██████████████████░░ Docker
-
-████████████████░░░ Kubernetes
-
-██████████████░░░░ CI/CD
-
-████████████░░░░░ Terraform
-
-██████████░░░░░░░ AWS Solutions Architect
-```
-
----
-
-# 💼 Certifications
-
-🏆 AWS Cloud Foundations
-
-🏆 AWS Machine Learning Foundations
-
-🏆 IIT Kharagpur NPTEL Machine Learning
-
-🏆 Microsoft Career Essentials in Generative AI
-
-🏆 IIIT Hyderabad AI Model Development
-
----
-
-# 🎯 2026 Goals
-
-✅ Contribute to Open Source
-
-✅ Master Kubernetes
-
-✅ Learn Terraform
-
-✅ AWS Solutions Architect Associate
-
-✅ Crack Top Product Company
-
----
-
-# 📬 Let's Connect
-
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-# ⭐
-
-### Thanks for visiting my profile!
-
-### Happy Coding 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
-
-</div>
-
 ---
 
 # 📊 GitHub Statistics
@@ -471,3 +279,562 @@ AWS                 █████████████ 70%
 🌱 Observability (Prometheus & Grafana)
 
 ---
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🚀 ProcureFlow AI
+
+### Enterprise Procurement Platform
+
+An enterprise-grade procurement solution inspired by SAP and Oracle, designed using a scalable microservices architecture.
+
+### Highlights
+
+- 🔐 JWT Authentication
+- 👥 Role-Based Access Control (RBAC)
+- 📨 Kafka Event Streaming
+- ⚡ Redis Caching
+- 📦 Spring Cloud Gateway
+- 🏗 Microservices Architecture
+- 🗄 SQL Server
+- 📄 Swagger Documentation
+- 🐳 Docker Ready
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Security`
+`Kafka` `Redis`
+`MSSQL`
+`Docker`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kotha-karthik&repo=procureflow-ai&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏥 MediConnect
+
+Hospital Management Platform
+
+Modern healthcare management platform supporting
+
+- Appointment Scheduling
+- Electronic Medical Records
+- Billing
+- Pharmacy
+- Inventory
+- Doctor Dashboard
+- Admin Dashboard
+- Secure Authentication
+
+**Built Using**
+
+Spring Boot
+
+Spring Security
+
+Hibernate
+
+JWT
+
+MySQL
+
+Docker
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kotha-karthik&repo=mediconnect&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ☸ Kubernetes Microservices
+
+Production Ready Deployment
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ ConfigMaps
+
+✔ Secrets
+
+✔ HPA
+
+✔ Ingress
+
+✔ Rolling Updates
+
+✔ Service Discovery
+
+✔ Spring Cloud Gateway
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kotha-karthik&repo=kubernetes-microservices&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🔐 JWT Authentication
+
+Complete Authentication System
+
+✔ Login
+
+✔ Registration
+
+✔ Refresh Token
+
+✔ Logout
+
+✔ BCrypt
+
+✔ Spring Security
+
+✔ JWT
+
+✔ RBAC
+
+✔ Custom Filters
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kotha-karthik&repo=spring-security-jwt&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Professional Skills
+
+## Backend
+
+✔ Spring Boot
+
+✔ Spring MVC
+
+✔ Spring Security
+
+✔ Spring Data JPA
+
+✔ Hibernate
+
+✔ REST APIs
+
+✔ JWT
+
+✔ OAuth2
+
+✔ Maven
+
+---
+
+## Databases
+
+✔ MySQL
+
+✔ SQL Server
+
+✔ Redis
+
+✔ JDBC
+
+---
+
+## Messaging
+
+✔ Apache Kafka
+
+✔ Event Driven Architecture
+
+✔ Producer Consumer Pattern
+
+---
+
+## DevOps
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ GitHub Actions
+
+✔ Git
+
+✔ AWS
+
+---
+
+## Architecture
+
+✔ Microservices
+
+✔ Layered Architecture
+
+✔ MVC
+
+✔ Clean Architecture
+
+✔ SOLID Principles
+
+✔ Design Patterns
+
+---
+
+# 📈 Career Timeline
+
+```text
+2022
+
+Started B.Tech Computer Science
+
+⬇
+
+2023
+
+Java Development
+
+Data Structures
+
+Spring Framework
+
+⬇
+
+2024
+
+Machine Learning
+
+Python
+
+Artificial Intelligence
+
+Internships
+
+⬇
+
+2025
+
+Spring Boot
+
+Microservices
+
+Kafka
+
+Docker
+
+Redis
+
+JWT
+
+⬇
+
+2026
+
+Enterprise Backend Development
+
+Kubernetes
+
+Cloud
+
+DevOps
+
+Product Company Preparation
+```
+
+---
+
+# 🏅 Certifications
+
+🥇 AWS Academy Cloud Foundations
+
+🥇 AWS Academy Machine Learning Foundations
+
+🥇 NPTEL — Introduction to Machine Learning
+
+🥇 Microsoft Career Essentials in Generative AI
+
+🥇 AI Model Development — IIIT Hyderabad & SWECHA
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become an expert in Distributed Systems
+- ☁ Earn AWS Solutions Architect certification
+- ☸ Master Kubernetes
+- ⚡ Build scalable cloud-native applications
+- 🌍 Contribute to Open Source
+- 💼 Join a top product-based company
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/kotha-karthik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"Building scalable backend systems, one microservice at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+</div>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotha-karthik&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotha-karthik&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kotha-karthik&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kotha-karthik&theme=algolia&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kotha-karthik&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kotha-karthik/kotha-karthik/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🚀 ProcureFlow AI
+
+Enterprise Procurement Platform
+
+✔ Spring Boot
+
+✔ Kafka
+
+✔ Redis
+
+✔ JWT
+
+✔ MSSQL
+
+✔ Microservices
+
+---
+
+## 🏥 MediConnect
+
+Hospital Management Platform
+
+✔ Appointment Scheduling
+
+✔ Billing
+
+✔ RBAC
+
+✔ Spring Security
+
+✔ JWT
+
+---
+
+## ☸ Kubernetes Microservices
+
+Enterprise Deployment
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Ingress
+
+✔ HPA
+
+✔ ConfigMaps
+
+✔ Secrets
+
+---
+
+## 🔐 JWT Authentication System
+
+✔ OAuth2
+
+✔ Spring Security
+
+✔ Refresh Token
+
+✔ Role Based Access Control
+
+---
+
+# 📚 Currently Learning
+
+```text
+██████████████████░░ Docker
+
+████████████████░░░ Kubernetes
+
+██████████████░░░░ CI/CD
+
+████████████░░░░░ Terraform
+
+██████████░░░░░░░ AWS Solutions Architect
+```
+
+---
+
+# 💼 Certifications
+
+🏆 AWS Cloud Foundations
+
+🏆 AWS Machine Learning Foundations
+
+🏆 IIT Kharagpur NPTEL Machine Learning
+
+🏆 Microsoft Career Essentials in Generative AI
+
+🏆 IIIT Hyderabad AI Model Development
+
+---
+
+# 🎯 2026 Goals
+
+✅ Contribute to Open Source
+
+✅ Master Kubernetes
+
+✅ Learn Terraform
+
+✅ AWS Solutions Architect Associate
+
+✅ Crack Top Product Company
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="mailto:kothakarthik1105@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# ⭐
+
+### Thanks for visiting my profile!
+
+### Happy Coding 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+
+</div>
