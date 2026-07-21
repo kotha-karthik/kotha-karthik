@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/karthik11_5">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -115,4 +115,40 @@ I'm **Karthik Kotha**, a passionate **Java Backend Developer** with a strong int
 </div>
 
 ---
+# 🏅 Certifications
 
+- ☁️ AWS Academy Cloud Foundations
+- 🤖 AWS Academy Machine Learning Foundations
+- 📘 NPTEL – Introduction to Machine Learning
+- 🧠 Microsoft Career Essentials in Generative AI
+- 🎓 AI Model Development – IIIT Hyderabad & SWECHA
+
+---
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kothakarthik1105@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karthik-kotha-153174290/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kotha-karthik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Building scalable backend systems with clean architecture and modern technologies."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+</div>
