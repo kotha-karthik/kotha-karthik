@@ -72,44 +72,13 @@ Fun Fact:
 + Docker • Kubernetes • AWS
 ```
 
-### 🚀 Building
+# 👨‍💻 About Me
 
-✔ Enterprise Applications
+I'm **Karthik Kotha**, a Java Backend Developer passionate about building scalable, secure, and high-performance enterprise applications.
 
-✔ Cloud-Native Solutions
+I enjoy designing **Spring Boot microservices**, implementing **event-driven architectures with Kafka**, optimizing APIs, and deploying cloud-native applications using modern DevOps practices.
 
-✔ Secure REST APIs
-
-✔ Distributed Systems
-
-✔ Event-Driven Architectures
-
----
-
-### 🛠 Tech Focus
-
-🔹 Java
-
-🔹 Spring Boot
-
-🔹 Spring Security
-
-🔹 Hibernate
-
-🔹 Kafka
-
-🔹 Redis
-
-🔹 SQL Server
-
-🔹 MySQL
-
-🔹 Docker
-
-🔹 Kubernetes
-
-🔹 AWS
-
+Currently focused on mastering **Kubernetes**, **AWS**, and **distributed systems** while building production-ready software.
 ---
 
 ### 🎯 Mission
