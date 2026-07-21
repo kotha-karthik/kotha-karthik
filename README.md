@@ -60,25 +60,7 @@ Fun Fact:
   I enjoy solving backend scalability challenges.
 ```
 
----
 
-# 👋 Hey, I'm Karthik
-
-```diff
-+ Java Backend Developer
-+ Spring Boot Enthusiast
-+ Microservices Architect
-+ Kafka & Event-Driven Systems
-+ Docker • Kubernetes • AWS
-```
-
-# 👨‍💻 About Me
-
-I'm **Karthik Kotha**, a Java Backend Developer passionate about building scalable, secure, and high-performance enterprise applications.
-
-I enjoy designing **Spring Boot microservices**, implementing **event-driven architectures with Kafka**, optimizing APIs, and deploying cloud-native applications using modern DevOps practices.
-
-Currently focused on mastering **Kubernetes**, **AWS**, and **distributed systems** while building production-ready software.
 ---
 
 ### 🎯 Mission
