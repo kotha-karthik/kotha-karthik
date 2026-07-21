@@ -297,3 +297,177 @@ Enterprise Deployment
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
 
 </div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kotha-karthik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=kotha-karthik&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotha-karthik&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kotha-karthik&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kotha-karthik&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kotha-karthik&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🌟 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotha-karthik&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotha-karthik&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kotha-karthik&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotha-karthik&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kotha-karthik&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ Coding Philosophy
+
+<div align="center">
+
+> **"First, solve the problem. Then, write clean, scalable, maintainable code."**
+
+</div>
+
+---
+
+# 🚀 Backend Development Journey
+
+```text
+Java                ██████████████████████ 95%
+
+Spring Boot         █████████████████████ 90%
+
+Spring Security     ████████████████████ 88%
+
+Microservices       ████████████████████ 88%
+
+Hibernate/JPA       ███████████████████ 85%
+
+Kafka               ██████████████████ 82%
+
+Redis               █████████████████ 80%
+
+Docker              ████████████████ 78%
+
+Kubernetes          ██████████████ 72%
+
+AWS                 █████████████ 70%
+```
+
+---
+
+# 🎯 Areas of Interest
+
+✔ Backend Development
+
+✔ Distributed Systems
+
+✔ Event-Driven Architecture
+
+✔ Cloud Native Applications
+
+✔ DevOps
+
+✔ AI Integration
+
+✔ High Performance APIs
+
+✔ Enterprise Software
+
+---
+
+# 🧠 Problem Solving
+
+```text
+💻 REST APIs
+
+⚙ Spring Security
+
+🔐 JWT Authentication
+
+📦 Docker Containers
+
+☸ Kubernetes
+
+⚡ Kafka Messaging
+
+🗄 Database Design
+
+🏗 System Design
+
+🚀 Performance Optimization
+```
+
+---
+
+# 📚 Currently Exploring
+
+🌱 Kubernetes
+
+🌱 Helm Charts
+
+🌱 Terraform
+
+🌱 GitHub Actions
+
+🌱 AWS ECS
+
+🌱 Event Sourcing
+
+🌱 CQRS
+
+🌱 Observability (Prometheus & Grafana)
+
+---
