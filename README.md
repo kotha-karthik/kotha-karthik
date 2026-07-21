@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kothakarthik1105@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
@@ -61,6 +61,73 @@ Fun Fact:
 ```
 
 ---
+
+# 👋 Hey, I'm Karthik
+
+```diff
++ Java Backend Developer
++ Spring Boot Enthusiast
++ Microservices Architect
++ Kafka & Event-Driven Systems
++ Docker • Kubernetes • AWS
+```
+
+### 🚀 Building
+
+✔ Enterprise Applications
+
+✔ Cloud-Native Solutions
+
+✔ Secure REST APIs
+
+✔ Distributed Systems
+
+✔ Event-Driven Architectures
+
+---
+
+### 🛠 Tech Focus
+
+🔹 Java
+
+🔹 Spring Boot
+
+🔹 Spring Security
+
+🔹 Hibernate
+
+🔹 Kafka
+
+🔹 Redis
+
+🔹 SQL Server
+
+🔹 MySQL
+
+🔹 Docker
+
+🔹 Kubernetes
+
+🔹 AWS
+
+---
+
+### 🎯 Mission
+
+> Build reliable backend systems capable of serving millions of users while continuously learning modern software engineering practices.
+
+---
+
+### ⚡ Fun Fact
+
+```text
+while(alive){
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
 
 # 🚀 Tech Stack
 
